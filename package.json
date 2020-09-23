@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/lolwhenlifegivesyoulemons/kahoot-bot#readme",
   "dependencies": {
-    "kahoot.js-updated": "^1.2.13",
-    "readline-sync": "^1.4.10"
+    "kahoot.js-updated": "^2.0.11",
+    "readline-sync": "^1.4.10",
+    "express": "^4.17.1"
   }
 }
