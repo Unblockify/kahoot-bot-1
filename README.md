@@ -1,4 +1,9 @@
 # kahoot-bot
+
+# Looking for a working build?
+https://github.com/respecting/kahoot-bot/tree/c0230f56c3ef85fdcb543d6f44ffda3b4a842dde
+
+
 # Instructions:
 
 1. Install [node.js](https://node.js.org)
